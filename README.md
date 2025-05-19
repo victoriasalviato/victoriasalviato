@@ -98,4 +98,4 @@ Me mande um e-mail, me adicione no LinkedIn ou acompanhe meus repositórios aqui
 _“Transformando dados em soluções, com código e propósito.”_
 
 
-✨ Personaliza meu perfil com README focado em dados e tecnologia
+
