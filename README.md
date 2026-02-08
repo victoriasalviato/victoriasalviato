@@ -101,7 +101,6 @@
 
 **🎓 Bacharelado em Relações Internacionais – Universidade Vila Velha (UVV)**  
 🗓️ 2020 – 2022 [Trancado] 
-
 📌 Foco em Comercio Exterior e Politica Internacional  
 
 
