@@ -99,9 +99,14 @@
 
 ### 🏫 Formação Acadêmica
 
+**🎓 Bacharelado em Relações Internacionais – Universidade Vila Velha (UVV)**  
+🗓️ 2020 – 2022 (Trancado) 
+📌 Foco em Comercio Exterior e Politica Internacional  
+
+
 **🎓 Bacharelado em Sistemas de Informação – Universidade Vila Velha (UVV)**  
 🗓️ 2022 – 2026  
-📌 Foco em Engenharia de Software e Ciência de Dados  
+📌 Foco em Engenharia de Software e DataScience  
 📈 Parcerias com Oracle, Cisco e Red Hat
 
 ---
