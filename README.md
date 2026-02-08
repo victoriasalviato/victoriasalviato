@@ -87,9 +87,13 @@
 
 ### 🧪 Experiência
 
-**🧬 uDNA Sistemas de Informação**  
+**🧬 uDNA Relações Internacionais**  
 🗓️ Mar 2022 – Jul 2022  
-💼 Estágio em Inside Sales: CRM, Excel, Leads, Vendas Técnicas e Atendimento
+💼 Estágio em Inside Sales Agent: CRM, Excel, Leads, Vendas Técnicas e Atendimento
+
+**🧬 Globalsys Soluções de TI Sistemas de Informação**  
+🗓️ Jun 2025 – Atualmente  
+💼 Estágiario Desenvolvedor em Java: N8N, Power Automate, Lecom, Bizagi, Mapeamento BPMN e Programação em Java
 
 ---
 
