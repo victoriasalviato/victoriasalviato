@@ -1,141 +1,216 @@
-<h1 align="center">🎓 Victória Toniato Salviato</h1>
-<h3 align="center">💻 Desenvolvedora & Analista de Sistemas com paixão por Dados</h3>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:vicsalviato@gmail.com">
-    <img src="https://img.shields.io/badge/Email-vicsalviato@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/victoriasalviato/">
-    <img src="https://img.shields.io/badge/LinkedIn-victoriasalviato-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://github.com/victoriasalviato">
-    <img src="https://img.shields.io/badge/GitHub-victoriasalviato-181717?style=flat-square&logo=github" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90D9,100:8E44AD&height=200&section=header&text=Victória%20Toniato%20Salviato&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Developer%20%26%20Analyst%20%7C%20Passionate%20About%20Data&descAlignY=58&descSize=18" width="100%"/>
 
----
+<br>
 
-### ✨ Sobre Mim
+[![Email](https://img.shields.io/badge/Email-vicsalviato%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicsalviato@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-victoriasalviato-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoriasalviato)
+[![GitHub](https://img.shields.io/badge/GitHub-victoriasalviato-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victoriasalviato)
 
-🎓 Estudante de **Sistemas de Informação** na UVV  
-🔎 Apaixonada por **banco de dados**, **desenvolvimento de sistemas** e **análise de dados**  
-📊 Busco transformar **informações em decisões inteligentes**  
-🎤 Também sou musicista e vocalista — onde desenvolvi minha comunicação, empatia e presença  
-👩‍💼 Ex-VP da Atlética e do Centro Acadêmico de TI na UVV
+</div>
 
----
+<br>
 
-### 🧠 Áreas de Interesse
+## ✨ About Me
 
-- 🔍 Banco de Dados Relacionais e NoSQL  
-- 🧠 Data Science e Big Data  
-- 🧩 Engenharia de Software  
-- 🤖 Inteligência Artificial  
-- 🌐 Desenvolvimento Web e Mobile
+```yaml
+student:        "Information Systems @ UVV (Universidade Vila Velha)"
+passionate_about: ["databases", "systems development", "data analysis"]
+mission:         "Turning information into smart decisions"
+also_a:          "Musician & vocalist 🎤 — shaped my communication, empathy, and presence"
+leadership:      "Former VP of the Athletics Association & IT Academic Center at UVV"
+```
 
----
+<br>
 
-### 💡 Hard Skills
+## 🧠 Areas of Interest
 
-#### 🧾 Linguagens de Programação
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white)
+<div align="center">
 
-#### 🗃️ Banco de Dados
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+| 🔍 Databases | 🧠 Data Science | 🧩 Software Eng. | 🤖 AI | 🌐 Web & Mobile |
+|:---:|:---:|:---:|:---:|:---:|
+| Relational & NoSQL | Big Data & Analytics | Engineering & Design | Artificial Intelligence | Modern Development |
 
-#### 🛠️ Ferramentas e Tecnologias
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![Microsoft Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
+</div>
 
----
+<br>
 
-### 🌱 Soft Skills
+## 💡 Tech Stack
 
-- 🗣 Comunicação clara e objetiva  
-- 🤝 Trabalho em equipe e liderança  
-- 📋 Organização e gestão de projetos  
-- 🔍 Pensamento analítico e resolução de problemas  
-- 💡 Criatividade e inovação
+<div align="center">
 
----
+**Languages**
 
-### 📚 Certificações Recentes
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 
-- ✅ **SQL (Básico, Intermediário e Avançado)** — HackerRank  
-- ✅ **Python e C# (Básico)** — HackerRank  
-- ✅ **Responsive Web Design** — freeCodeCamp  
-- ✅ **Cybersecurity Essentials** — Cisco Academy  
-- ✅ **Digital Skills: Mobile** — Accenture / Future Learn  
-- ✅ **MySQL Explorer** — Oracle Academy  
-- ✅ **Introdução ao SQL** — Google Developers
+**Databases**
 
----
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-### 🧪 Experiência
+**Tools & Platforms**
 
-**🧬 uDNA Relações Internacionais**  
-🗓️ Mar 2022 – Jul 2022  
-💼 Estágio em Inside Sales Agent: CRM, Excel, Leads, Vendas Técnicas e Atendimento
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
-**🧬 Globalsys Soluções de TI Sistemas de Informação**  
-🗓️ Jun 2025 – Atualmente  
-💼 Estágiario Desenvolvedor em Java: N8N, Power Automate, Lecom, Bizagi, Mapeamento BPMN e Programação em Java
+</div>
 
----
+<br>
 
-### 🏫 Formação Acadêmica
+## 🌱 Soft Skills
 
-**🎓 Bacharelado em Relações Internacionais – Universidade Vila Velha (UVV)**  
-🗓️ 2020 – 2022 [Trancado] 
-📌 Foco em Comercio Exterior e Politica Internacional  
+- 🗣 **Clear & objective communication**
+- 🤝 **Teamwork and leadership**
+- 📋 **Project organization and management**
+- 🔍 **Analytical thinking and problem-solving**
+- 💡 **Creativity and innovation**
 
+<br>
 
-**🎓 Bacharelado em Sistemas de Informação – Universidade Vila Velha (UVV)**  
-🗓️ 2022 – 2026  
-📌 Foco em Engenharia de Software e DataScience  
-📈 Parcerias com Oracle, Cisco e Red Hat
+## 📚 Recent Certifications
 
----
+<div align="center">
 
-### 🚀 Em Desenvolvimento
+| Certification | Issuer |
+|---|:---:|
+| ✅ SQL (Basic, Intermediate & Advanced) | HackerRank |
+| ✅ Python & C# (Basic) | HackerRank |
+| ✅ Responsive Web Design | freeCodeCamp |
+| ✅ Cybersecurity Essentials | Cisco Academy |
+| ✅ Digital Skills: Mobile | Accenture / Future Learn |
+| ✅ MySQL Explorer | Oracle Academy |
+| ✅ Introduction to SQL | Google Developers |
 
-> 💻 Repositórios com foco em SQL, modelagem de dados, APIs e visualização interativa de dados.  
-> 📊 Projetos integrando banco de dados com aplicações web modernas (Node, React).
+</div>
 
----
+<br>
 
-### 📊 GitHub Stats
+## 🧪 Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victoriasalviato&show_icons=true&theme=dracula" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriasalviato&layout=compact&theme=dracula" height="170">
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🧬 Globalsys Soluções de TI
+**Java Developer Intern**
+🗓 June 2025 – Present
 
-### 📫 Contato
+N8N · Power Automate · Lecom · Bizagi
+BPMN Mapping · Java Programming
 
-- ✉️ **Email:** vicsalviato@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/victoriasalviato](https://www.linkedin.com/in/victoriasalviato/)  
-- 🧠 **GitHub:** [github.com/victoriasalviato](https://github.com/victoriasalviato)
+</td>
+<td width="50%" valign="top">
 
----
+### 🧬 uDNA Relações Internacionais
+**Inside Sales Agent Intern**
+🗓 Mar 2022 – Jul 2022
 
-<p align="center">
-  <em>“Transformando dados em soluções, com código e propósito.”</em><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+CRM · Excel · Lead Generation
+Technical Sales · Customer Service
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🏫 Academic Background
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Information Systems
+**Universidade Vila Velha (UVV)**
+🗓 2022 – 2026
+
+📌 Focus on Software Engineering & Data Science
+🤝 Partnerships with Oracle, Cisco, and Red Hat
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 International Relations
+**Universidade Vila Velha (UVV)**
+🗓 2020 – 2022 *(on hold)*
+
+📌 Focus on Foreign Trade & International Politics
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🚀 Currently Building
+
+- 🗄 Repositories focused on **SQL**, **data modeling**, **APIs**, and **interactive data visualization**
+- 📊 Projects integrating **databases** with modern web applications (**Node**, **React**)
+
+<br>
+
+## 📂 Repositories
+
+<div align="center">
+
+| Repository | Description | Stack | Updated |
+|---|---|:---:|:---:|
+| 🔷 [**Typescript**](https://github.com/victoriasalviato/Typescript) | Independent study & practice projects | `HTML` | 3 weeks ago |
+| 🟢 [**Hacker-Rank**](https://github.com/victoriasalviato/Hacker-Rank) | Challenges solved on HackerRank | `C#` | May 21 |
+| 🟠 [**freeCodeCamp**](https://github.com/victoriasalviato/freeCodeCamp) | Projects built on freeCodeCamp | `HTML` | May 21 |
+| ⚙️ [**C**](https://github.com/victoriasalviato/C) | Software Eng. & Data Science portfolio | `C` | Mar 29 |
+| 👤 [**victoriasalviato**](https://github.com/victoriasalviato/victoriasalviato) | Personal profile repository | — | Feb 8 |
+| 🔁 [**BPMN**](https://github.com/victoriasalviato/BPMN) | BPMN process models | — | May 20, 2025 |
+| 🧩 [**UML**](https://github.com/victoriasalviato/UML) | UML diagrams & system designs | — | May 20, 2025 |
+| 🟡 [**JavaScript**](https://github.com/victoriasalviato/JavaScript) | Software Eng. & Data Science portfolio | `TypeScript` | May 19, 2025 |
+| 🐍 [**Python**](https://github.com/victoriasalviato/Python) | Software Eng. & Data Science portfolio | `Python` | Mar 25, 2025 |
+| ☕ [**Java**](https://github.com/victoriasalviato/Java) | Software Eng. & Data Science portfolio | `Java` | Mar 25, 2025 |
+| 🗃 [**SQL**](https://github.com/victoriasalviato/SQL) | Software Eng. & Data Science portfolio | — | Mar 25, 2025 |
+
+</div>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=victoriasalviato&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriasalviato&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=victoriasalviato&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-vicsalviato%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicsalviato@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-victoriasalviato-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoriasalviato)
+[![GitHub](https://img.shields.io/badge/GitHub-victoriasalviato-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victoriasalviato)
+
+<br><br>
+
+> *"Turning data into solutions, with code and purpose."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E44AD,100:4A90D9&height=100&section=footer" width="100%"/>
+
+</div>
